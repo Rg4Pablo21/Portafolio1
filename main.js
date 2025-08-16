@@ -8,7 +8,7 @@ let projectsData = [
     },
     {
       name: "Hamburguesería",
-      description: "Sitio web donde se tenía que ralizar una hamburguesa.",
+      description: "Sitio web donde se tenía que ralizar una hamburguesa con componentes en JAVASCRIPT.",
       url: "https://github.com/Rg4Pablo21/Hambur_guesa.git",
       technologies: ["HTML", "CSS", "JavaScript"]
     },
@@ -20,16 +20,24 @@ let projectsData = [
     },
     {
         name:"Tiro_al_blanco",
-        description:"En este proyecto se realizó un juego para poderlo añadir a un proyecto donde teniamos que hacer que las demás personas pudieran jugar.",
+        description:"En este proyecto se realizó un juego para poderlo añadir a un proyecto donde teniamos que hacer que las demás personas pudieran jugarlo en línea al igual que un kahoot.",
         url:"https://github.com/Rg4Pablo21/Tiro_al_blanco.git",
         technologies:["HTML","CSS", "JAVASCRIPT"]
     },
     {
+        name:"Comida_Saludable",
+        description:"En este proyecto se realizó un juego hecho para niños.",
+        url:"https://github.com/Rg4Pablo21/Comida_Saludable.git",
+        technologies:["HTML","CSS","JAVASCRIPT"]
+    },
+    {
         name:"Bo-ton",
-        description:"En este proyecto nos enseñaron a como crear un boton desde cero con JVASCRIPT",
+        description:"En este proyecto nos enseñaron a como crear un boton desde cero con JAVASCRIPT.",
         url:"https://github.com/Rg4Pablo21/Bo-ton.git",
         technologies:["HTML","CSS","JAVASCRIPT"]
-    }
+    },
+
+    
   ];
   
   let skillsData = [
