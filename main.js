@@ -50,7 +50,8 @@ let projectsData = [
     { name: 'GitHub',      icon: 'https://cdn-icons-png.flaticon.com/512/733/733553.png',  color: 'amber', level: 85 },
     { name: 'MySQL',       icon: 'https://cdn-icons-png.flaticon.com/512/1199/1199128.png', color: '#4479A1', level: 70 },
     { name: 'Java',        icon: 'https://cdn-icons-png.flaticon.com/512/226/226777.png',   color: '#007396', level: 65 },
-    { name: 'IntelliJ IDEA', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png', color: '#000000', level: 75 }
+    { name: 'IntelliJ IDEA', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png', color: '#000000', level: 75 },
+    {name:"Visual Studio Code", icon:'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png', color:'#00000',level:95}
   ];
 
   const preferredOrder = [
