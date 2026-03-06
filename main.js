@@ -52,7 +52,7 @@ let technologiesData = [
 let applicationsData = [
   { name: 'Git',         icon: 'https://cdn-icons-png.flaticon.com/512/4494/4494748.png', color: '#F05032', level: 80 },
   { name: 'GitHub',      icon: 'https://cdn-icons-png.flaticon.com/512/733/733553.png',  color: '#181717', level: 85 },
-  { name: 'Visual Studio Code', icon:'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png', color:'#007ACC', level:95 },
+  { name: 'Visual Studio Code', icon:'https://didacticode.com/wp-content/uploads/2021/01/1024px-Visual_Studio_Code_1.35_icon.svg_.png', color:'#007ACC', level:95 },
   { name: 'IntelliJ IDEA', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png', color: '#000000', level: 75 },
   { name: 'Notion',      icon: 'https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/926fd60f-776a-41e5-9660-57c112abf44d.png?auto=format%2Ccompress&fit=max&w=256&q=75&ch=Width%2CDPR', color: '#000000', level: 75 }
 ];
